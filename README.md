@@ -52,7 +52,9 @@ You can find more examples in the test files.
 
 ## Changelog
 
-Empty.
+**1.0.0**
+
+* `immutably.get` implemented & unit tested
 
 ## Roadmap
 
