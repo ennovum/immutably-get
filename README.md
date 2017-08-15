@@ -52,6 +52,13 @@ You can find more examples in the test files.
 
 ## Changelog
 
+**1.1.0**
+
+* build JS compression switched off
+* `package.json` module configured
+* `.npmignore` update
+* peer dependencies version bump
+
 **1.0.0**
 
 * `immutably.get` implemented & unit tested
